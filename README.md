@@ -9,8 +9,8 @@ This tool was developed with the purpose of furthering and organizing access to 
 
 	$ git clone github.com/MalwareReverseBrasil/maltran.git
 		$ cd maltran
-			$ pip install -r requirements.txt
-			
+			$ sudo apt install python3-pip
+				$ pip3 install -r requirements.txt
 		
 
 <i class="icon-puzzle"></i> Usage
