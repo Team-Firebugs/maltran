@@ -4,13 +4,22 @@
 
 This tool was developed with the purpose of furthering and organizing access to **[Malware-Traffic-Analysis][3]** exercises. Maltran makes it easy to list and download exercises in a simple and organized way.
 
-----------
+<i class="icon-puzzle"></i> Install
+-------------
+
+	$ git clone github.com/MalwareReverseBrasil/maltran.git
+		$ cd maltran
+			$ pip install requirements.txt
+			
+		
+
 <i class="icon-puzzle"></i> Usage
 -------------
-Optional Arguments:
+Arguments:
 
 	$ python3 maltran.py
 
+	
 
 ![output example](https://image.prntscr.com/image/lZXytngvTUu1YEsi3YbOYg.jpg)
 
