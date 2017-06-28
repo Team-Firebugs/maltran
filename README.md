@@ -15,7 +15,6 @@ This tool was developed with the purpose of furthering and organizing access to 
 
 <i class="icon-puzzle"></i> Usage
 -------------
-Arguments:
 
 	$ python3 maltran.py
 
