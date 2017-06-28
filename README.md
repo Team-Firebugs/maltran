@@ -9,7 +9,7 @@ This tool was developed with the purpose of furthering and organizing access to 
 
 	$ git clone github.com/MalwareReverseBrasil/maltran.git
 		$ cd maltran
-			$ pip install requirements.txt
+			$ pip install -r requirements.txt
 			
 		
 
